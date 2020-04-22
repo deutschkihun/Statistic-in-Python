@@ -4,9 +4,8 @@ Statistic is one of the most fundamental theory for data anaysis and machine lea
 
 Contents
 
-1.Possibility
-
-2.Sampling distribution 
+- 1.Possibility
+- 2.Sampling distribution 
 
 3.Binomial distribution -updating
 
